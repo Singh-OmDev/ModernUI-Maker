@@ -1,12 +1,22 @@
-# React + Vite
+# ModernUI Maker 🎨⚡
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ModernUI Maker is an **AI-powered UI component generator** that helps developers quickly create modern, responsive, and reusable components for web applications.  
+It uses the **Gemini API (Google Generative AI)** to generate React + Tailwind CSS components on the fly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 🔹 AI-powered component generation using **Gemini API**  
+- 🔹 Generates **modern UI components** (React + Tailwind CSS)  
+- 🔹 Copy and paste ready code snippets  
+- 🔹 Clean and developer-friendly interface  
+- 🔹 Saves time for frontend developers and designers  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Singh-OmDev/ModernUI-Maker.git
+cd ModernUI-Maker/AI-Component-Generator
