@@ -23,4 +23,4 @@ It uses the **Gemini API (Google Generative AI)** to generate React + Tailwind C
 ```bash
 git clone https://github.com/Singh-OmDev/ModernUI-Maker.git
 cd ModernUI-Maker/AI-Component-Generator
-<img width="1883" height="877" alt="image" src="https://github.com/user-attachments/assets/401e7cbc-0ed7-411d-b6b0-4045dcc03ea9" />
+
