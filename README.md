@@ -8,7 +8,7 @@
 ModernUI Maker is an **AI-powered UI component generator** that helps developers quickly create modern, responsive, and reusable components for web applications.  
 It uses the **Gemini API (Google Generative AI)** to generate React + Tailwind CSS components on the fly.
 
----
+--
 
 ## ✨ Features
 - 🔹 AI-powered component generation using **Gemini API**  
