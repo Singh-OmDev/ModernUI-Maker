@@ -15,7 +15,7 @@ It uses the **Gemini API (Google Generative AI)** to generate React + Tailwind C
 - 🔹 Generates **modern UI components** (React + Tailwind CSS)  
 - 🔹 Copy and paste ready code snippets  
 - 🔹 Clean and developer-friendly interface  
-- 🔹 Saves time for frontend developers and designers  
+- 🔹 Saves time for frontend developers and designer
 
 ---
 
